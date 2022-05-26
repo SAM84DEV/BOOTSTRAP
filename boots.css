@@ -1,0 +1,54 @@
+#dernier {
+    display: flex;
+    justify-content: center;
+ 
+    
+}
+#avantdernier {
+    display:flex;
+    justify-content: center;
+}
+#huit {
+    display: flex;
+    justify-content: center;
+}
+#premier {
+    display: flex;
+    justify-content: space-evenly;
+}
+#deuxieme {
+    display: flex;
+    justify-content: center;
+}
+#troisieme {
+    display: flex;
+    justify-content: center;
+}
+#quatrieme {
+    display: flex;
+    justify-content: space-around;
+}
+#cinquieme {
+    display: flex;
+    justify-content: space-around;
+}
+#sixieme {
+    display: flex;
+    justify-content: center;
+}
+#sept {
+    display: flex;
+    justify-content: center;
+}
+* {
+    color:green;
+}
+#uno {
+    color:white;
+}
+#dos {
+    color:white;
+}
+#tres {
+    color:white;
+}
